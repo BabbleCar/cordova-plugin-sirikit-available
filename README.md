@@ -23,7 +23,7 @@ The Plugin is only iOS Platform required iOS 10.0+.
 
 ### Execute requestPermission method in your Javascript
 
-    cordova.plugins.SiriKitPermission.requestPermission(function(response) {
+    cordova.plugins.sirikitpermission.requestPermission(function(response) {
         // success function
     }, function() {
         // failed function
